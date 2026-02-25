@@ -14,7 +14,7 @@ I'm 17 years old and a beginner developer focused on creating **Minecraft plugin
 
 ## 🎯 Goals
 - Improve my Java skills for Minecraft development
-- Build more open-source projects and share them here on GitHub
+- Build more open-source projects
 - Learn best practices and write cleaner code
 
 ---
