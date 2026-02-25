@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sergey
 
-<!--
-**Acizecu/Acizecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 17 years old and a beginner developer focused on creating **Minecraft plugins and mods**.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Develop plugins/mods for Minecraft
+- Learn and practice programming by building small projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I'm learning
+- **Java**
+- **Python**
+- **HTML / CSS / JavaScript**
+- **Node.js**
+
+## 🎯 Goals
+- Improve my Java skills for Minecraft development
+- Build more open-source projects and share them here on GitHub
+- Learn best practices and write cleaner code
+
+---
+⭐ Feel free to check out my repositories!
